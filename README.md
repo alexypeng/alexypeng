@@ -2,7 +2,7 @@
 
 I'm a first year Computer Science & Finance student at the University of Waterloo!
 
-Currently, I am working on personal projects, like websites, games, and other random projects! I am also currently learning Python and Full Stack Web Development. I am most interested in Artificial Intelligence and Machine Learning, but I am always willing and excited to learn about new things!
+Currently, I am working on personal projects, like websites, games, and other random projects! I am also currently learning Python and Full Stack Web Development. I am most interested in Fintech and Machine Learning, but I am always willing and excited to learn about new things!
 
 **See you guys around!**
 <!--
