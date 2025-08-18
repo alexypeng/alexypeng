@@ -1,6 +1,6 @@
 ## Hey there, I'm Alex Peng 👋
 
-I'm a first year Computer Science & Finance student at the University of Waterloo!
+I'm a Computer Science & Finance student at the University of Waterloo!
 
 Currently, I am working on personal projects, like websites, games, and other random projects! I am also currently learning about Machine Learning Algorithms. I am most interested in Fintech and Machine Learning, but I am always willing and excited to learn about new things!
 
