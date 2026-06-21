@@ -1,6 +1,6 @@
 ## Hey there, I'm Alex Peng 👋
 
-I'm a Computer Science & Finance student at the University of Waterloo! Currently searching for Fall 2026 internships!
+I'm a Computer Science & Finance student at the University of Waterloo! Currently searching for Fall 2026 internships.
 
 I'm working on Nudge at the moment, a mobile social alarm app.
 
